@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
+    "ендпоінти",
     "редірект",
     "Рендерить",
     "роут",
@@ -10,6 +11,15 @@
     "сабміті",
     "юзер",
     "юзера",
-    "VITE"
+    "dotenv",
+    "jscoverage",
+    "jspm",
+    "Nuxt",
+    "pids",
+    "Viktor",
+    "VITE",
+    "vitepress",
+    "vuepress",
+    "wscript"
   ]
 }
